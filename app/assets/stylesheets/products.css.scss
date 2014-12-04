@@ -1,9 +1,15 @@
 // Place all the styles related to the Products controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+html,body {
+	width: 100%;
+}
 
 .products {
 	table {
+		width: 90%;
+		margin-left: auto;
+		margin-right: auto;
 		border-collapse: collapse;
 	}
 
